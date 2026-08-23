@@ -45,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/varnicagarg25/javaprac/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/varnicagarg25/javaprac/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/varnicagarg25/javaprac/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
