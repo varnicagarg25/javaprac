@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varnicagarg25/javaprac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varnicagarg25/javaprac/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/varnicagarg25/javaprac/tree/master/0125-valid-palindrome) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/varnicagarg25/javaprac/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
