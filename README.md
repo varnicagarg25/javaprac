@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/varnicagarg25/javaprac/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/varnicagarg25/javaprac/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/varnicagarg25/javaprac/tree/master/0223-rectangle-area) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/varnicagarg25/javaprac/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/varnicagarg25/javaprac/tree/master/0171-excel-sheet-column-number) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
