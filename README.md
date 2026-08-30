@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
+| [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/varnicagarg25/javaprac/tree/master/0223-rectangle-area) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
