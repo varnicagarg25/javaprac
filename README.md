@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/varnicagarg25/javaprac/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/varnicagarg25/javaprac/tree/master/0171-excel-sheet-column-number) |
+| [1396-design-underground-system](https://github.com/varnicagarg25/javaprac/tree/master/1396-design-underground-system) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
+| [1396-design-underground-system](https://github.com/varnicagarg25/javaprac/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/varnicagarg25/javaprac/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
+| [1396-design-underground-system](https://github.com/varnicagarg25/javaprac/tree/master/1396-design-underground-system) |
 ## Linked List
 |  |
 | ------- |
