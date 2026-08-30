@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varnicagarg25/javaprac/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/varnicagarg25/javaprac/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
