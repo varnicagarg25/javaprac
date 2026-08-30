@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/varnicagarg25/javaprac/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/varnicagarg25/javaprac/tree/master/0223-rectangle-area) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varnicagarg25/javaprac/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/varnicagarg25/javaprac/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/varnicagarg25/javaprac/tree/master/0054-spiral-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/varnicagarg25/javaprac/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
