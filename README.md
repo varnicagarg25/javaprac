@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varnicagarg25/javaprac/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/varnicagarg25/javaprac/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/varnicagarg25/javaprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/varnicagarg25/javaprac/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/varnicagarg25/javaprac/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/varnicagarg25/javaprac/tree/master/0223-rectangle-area) |
+| [0380-insert-delete-getrandom-o1](https://github.com/varnicagarg25/javaprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varnicagarg25/javaprac/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/varnicagarg25/javaprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/varnicagarg25/javaprac/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/varnicagarg25/javaprac/tree/master/0013-roman-to-integer) |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/varnicagarg25/javaprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/varnicagarg25/javaprac/tree/master/0641-design-circular-deque) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/varnicagarg25/javaprac/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
