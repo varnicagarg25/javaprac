@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varnicagarg25/javaprac/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/varnicagarg25/javaprac/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
+| [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
