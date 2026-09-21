@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/varnicagarg25/javaprac/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/varnicagarg25/javaprac/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/varnicagarg25/javaprac/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/varnicagarg25/javaprac/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/varnicagarg25/javaprac/tree/master/0171-excel-sheet-column-number) |
+| [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
 | [1396-design-underground-system](https://github.com/varnicagarg25/javaprac/tree/master/1396-design-underground-system) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/varnicagarg25/javaprac/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
 | [1603-design-parking-system](https://github.com/varnicagarg25/javaprac/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/varnicagarg25/javaprac/tree/master/0380-insert-delete-getrandom-o1) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
