@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/varnicagarg25/javaprac/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/varnicagarg25/javaprac/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varnicagarg25/javaprac/tree/master/0380-insert-delete-getrandom-o1) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/varnicagarg25/javaprac/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varnicagarg25/javaprac/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/varnicagarg25/javaprac/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/varnicagarg25/javaprac/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
