@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/varnicagarg25/javaprac/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0707-design-linked-list) |
 | [1357-apply-discount-every-n-orders](https://github.com/varnicagarg25/javaprac/tree/master/1357-apply-discount-every-n-orders) |
 | [1396-design-underground-system](https://github.com/varnicagarg25/javaprac/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/varnicagarg25/javaprac/tree/master/1603-design-parking-system) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/varnicagarg25/javaprac/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
