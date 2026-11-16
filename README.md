@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/varnicagarg25/javaprac/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0876-middle-of-the-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/varnicagarg25/javaprac/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/varnicagarg25/javaprac/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varnicagarg25/javaprac/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
 | ------- |
