@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/varnicagarg25/javaprac/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/varnicagarg25/javaprac/tree/master/0171-excel-sheet-column-number) |
 | [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/varnicagarg25/javaprac/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1396-design-underground-system](https://github.com/varnicagarg25/javaprac/tree/master/1396-design-underground-system) |
 | [1927-sum-game](https://github.com/varnicagarg25/javaprac/tree/master/1927-sum-game) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/varnicagarg25/javaprac/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/varnicagarg25/javaprac/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/varnicagarg25/javaprac/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
