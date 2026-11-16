@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/varnicagarg25/javaprac/tree/master/0641-design-circular-deque) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varnicagarg25/javaprac/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
