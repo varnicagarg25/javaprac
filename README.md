@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/varnicagarg25/javaprac/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/varnicagarg25/javaprac/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/varnicagarg25/javaprac/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0876-middle-of-the-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varnicagarg25/javaprac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/varnicagarg25/javaprac/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varnicagarg25/javaprac/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/varnicagarg25/javaprac/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/varnicagarg25/javaprac/tree/master/0622-design-circular-queue) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/varnicagarg25/javaprac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/varnicagarg25/javaprac/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/varnicagarg25/javaprac/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/varnicagarg25/javaprac/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/varnicagarg25/javaprac/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/varnicagarg25/javaprac/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
